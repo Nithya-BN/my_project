@@ -1,2 +1,2 @@
 # my_project
-My first repo
+My first  git repo
